@@ -10,7 +10,7 @@ The course covers the following topics:
 * Visualizing data using various plots and charts
 * Computing descriptive statistics
 * Hypothesis testing
-* arametric tests
+* Parametric tests
 * Communicating findings to stakeholders
 
 ### Objectives
